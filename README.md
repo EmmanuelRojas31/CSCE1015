@@ -1,4 +1,6 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
+## EUID
 er0978
-My favorite linux command is cd
+## Favorite Linux Command
+cd
